@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "Teddybear",
+    "price": 10.99
+  },
+  {
+    "id": 2,
+    "name": "Matchbox Car",
+    "price": 5.00
+  },
+  {
+    "id": 3,
+    "name": "Frisbee",
+    "price": 2.99
+  },
+  {
+    "id": 4,
+    "name": "Football",
+    "price": 15.99
+  }
+]
